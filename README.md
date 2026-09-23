@@ -3,7 +3,7 @@
 **A fast, lightweight & beautiful multi-console emulator for Android**
 
 <p align="left">
-  <img src="https://github.com/Alien989/ReBit/raw/main/logo.png" width="100">
+  <img src="https://github.com/Alien989/ReBit/raw/main/log.png" width="100">
 </p>
 
 <p align="left">
